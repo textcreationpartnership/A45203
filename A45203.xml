@@ -1,0 +1,667 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Demonstration of astrology, or, A brief discourse, proving the influence of the sun, moon, stars, over this terraqueous globe grounded on the fundamental rules of the Copernican system and philosophy, and verified by practical examples and experience : illustrated by diagrams : whereby the art is rendered almost mathematically demonstrable : to which is added, an astrological and philosophical appendix, or second part, treating of this summer's effects, both in the macrocosm as well as microcosm : wherein we have great cause to fear, that the sword, pestilence, and famine will annoy our European territories this ensuing summer / by William Hunt, a lover of the mathematics and natural philosophy.</title>
+            <author>Hunt, William, lover of the mathematics and natural philosophy.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45203</idno>
+            <idno type="STC">Wing H3762</idno>
+            <idno type="STC">ESTC R7694</idno>
+            <idno type="EEBO-CITATION">11800818</idno>
+            <idno type="OCLC">ocm 11800818</idno>
+            <idno type="VID">49380</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45203)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49380)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 538:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Demonstration of astrology, or, A brief discourse, proving the influence of the sun, moon, stars, over this terraqueous globe grounded on the fundamental rules of the Copernican system and philosophy, and verified by practical examples and experience : illustrated by diagrams : whereby the art is rendered almost mathematically demonstrable : to which is added, an astrological and philosophical appendix, or second part, treating of this summer's effects, both in the macrocosm as well as microcosm : wherein we have great cause to fear, that the sword, pestilence, and famine will annoy our European territories this ensuing summer / by William Hunt, a lover of the mathematics and natural philosophy.</title>
+                  <author>Hunt, William, lover of the mathematics and natural philosophy.</author>
+               </titleStmt>
+               <extent>viii, 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Author ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49380:1"/>
+            <pb facs="tcp:49380:1" rendition="simple:additions"/>
+            <p>DEMONSTRATION OF ASTROLOGY. OR, A brief Diſcourſe, proving the Influence of the <hi>Sun, Moon,</hi> and <hi>Stars,</hi> over this Terraqueous Globe.</p>
+            <p>Grounded on the Fundamental Rules of the <hi>Copernican Syſtem</hi> and <hi>Philoſophy,</hi> and verified by Practical Examples and Experience. Illuſtrated by <hi>Diagrams.</hi> Whereby the Art is rendred almoſt Mathematically Demonſtrable.</p>
+            <p>To which is added, An Aſtrological and Philoſophical <hi>Appendix,</hi> or Second Part, treating of this Summer's Effects, both in the Macrocoſm as well as Microcoſm. Wherein we have great cauſe to fear, that the <hi>Sword, Peſtilence,</hi> and <hi>Famine,</hi> will annoy our European Territories this enſuing Summer.</p>
+            <p>By <hi>WILLIAM HUNT,</hi> a Lover of the Mathematicks and Natural Philoſophy.</p>
+            <q>Canſt thou refrain the ſweet Influences of the Pleiades? or looſe the Bands of Orion?
+<bibl>Job 38.31.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author; and are to be ſold by George Sawbridge in <hi>Little Britain,</hi> 1696.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49380:2"/>
+            <pb n="iii" facs="tcp:49380:2"/>
+            <head>To the Right Honourable CHARLES Viſcount <hi>MANDEVILL,</hi> Baron of <hi>Kimbolton,</hi> Earl of <hi>Mancheſter,</hi> Lord Lieutenant and <hi>Cuſtos Rotulorum</hi> of the County of <hi>Huntingdon.</hi>
+            </head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>THE laſt Favours which I receiv'd from you, embolden me to affix on your Lordſhip this Dedication, and commit theſe my firſt Fruits to your Honourable Pro<g ref="char:EOLhyphen"/>tection: For which Preſumption I humbly beg your Lordſhip's Pardon. The Stile I confeſs is plain and ruſtick, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anteth that elegancy of Language which a more learned Pen might have dreſſed it up with.</p>
+            <p>But the Subject (tho ill clad) is wholly new and ſublime, being a Subject never before treated on in this Nature, <hi>viz.</hi> the <hi>Demonſtration of Aſtrology,</hi> founded upon the <hi>Copernican Hypo<g ref="char:EOLhyphen"/>theſis:</hi> And tho but an <hi>Embrio,</hi> I hope it will live in ſpite of all its Oppoſers, eſpecially if it may receive the auſpicious Favour of your Lordſhip's Countenance; then ſhall I not doubt its Pre<g ref="char:EOLhyphen"/>ferment, and therein the Advancement of the Celeſtial Scien<g ref="char:EOLhyphen"/>ces, and chiefly this moſt uſeful and innocent Part, the Know<g ref="char:EOLhyphen"/>ledg of the Weather.</p>
+            <p>
+               <pb n="iv" facs="tcp:49380:3"/>Wherein I through my diligent Study and Obſervations, have gained more ſelect <hi>Arcana's</hi> than ever were known to the late (tho Learned) Dr. <hi>Goad,</hi> who wrote K. <hi>James</hi> the Second's Weather.</p>
+            <p>I confeſs it unworthineſs to ſtamp the Impreſſion of your Honour's Titles upon ſuch an abortive <hi>Embryo;</hi> yet could I ima<g ref="char:EOLhyphen"/>gine it would in the future become the leaſt diſparagement to the Dignity of the Godfather, I would even now cruſh it in the Bud, and ſtop its production, and not ſuffer it to appear in this wild World, where the <hi>Zoilian</hi> Sharks ſtand ready, with their duplicated Teeth, to devour it, if not ſheltered under the Shadow of your Honour's Wings, to whoſe Tuition I only commit it for Protection; humbly imploring your Lordſhip's favourable Conſtruction of this my Boldneſs, and it will be an Incouragement to the future Endeavours of,</p>
+            <closer>
+               <salute>My LORD,</salute>
+               <signed>Your Lordſhip's moſt humble and obedient Servant, <hi>WILLIAM HUNT.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb n="v" facs="tcp:49380:3"/>
+            <head>The Preface to the Reader.</head>
+            <p>I Deſigned to have wrote a large Volume of the <hi>Demon<g ref="char:EOLhyphen"/>ſtration of Aſtrology;</hi> but conſidering that Books of this Nature are chargeable to print, by reaſon of the <hi>Di<g ref="char:EOLhyphen"/>agrams,</hi> which are many: And when printed, there being but few Students or Lovers of this Art, whereby I feared it would not pay the Charge of Printing; therefore I altered my firſt Intentions, and do now deſign to appear in this manner quar<g ref="char:EOLhyphen"/>terly, <hi>viz.</hi> at every Solar Ingreſs of the Sun into the four Car<g ref="char:EOLhyphen"/>dinal Points, or oftner, as Matter and Occaſion ſhall permit, provided this finds a kind Reception.</p>
+            <p>In which intended Eſſays I ſhall endeavour towards the <hi>De<g ref="char:EOLhyphen"/>monſtration of Aſtrology,</hi> and the Reſtauration of the Ce<g ref="char:EOLhyphen"/>leſtial Sciences, which, like many antient and ruined Cities, lie buried in their own Rubbiſh: for Arts and Sciences have their Criſis, their Times of flouriſhing, and Times of decay, as well as all other ſublunary things. We have a common and ignorant ſaying amongst us, That <hi>every Age groweth wiſer and more learned than other;</hi> but I am of the contrary. Opi<g ref="char:EOLhyphen"/>nion, and do believe, that at this day Aſtrology is not ſo well underſtood as it was in the Days of <hi>Solomon</hi> and <hi>Daniel,</hi> who underſtood it in its Purity: But alas, now it's ſo ſullied over with Innovations and Superſtitions, that it's hard to
+<pb n="vi" facs="tcp:49380:4"/>
+find the Truth from Falſhood. But in our following Diſ<g ref="char:EOLhyphen"/>courſes, I deſire to be believed or credited no further than I can rationally demonſtrate the ſame. The following Work is founded upon the <hi>Copernican</hi> Hypotheſis, wherein I ſhall make it apparent, that the aforeſaid Philoſophy is ſo far from deſtroying Aſtrology, (as ſome ignorant Aſtrologers pretend) that it's the <hi>unum neceſſarium,</hi> the only thing needful in the demonſtration thereof.</p>
+            <p>My Method is wholly new, and different from the Modern Aſtrology, whoſe Baſis is founded upon the <hi>Ptolomean Hy<g ref="char:EOLhyphen"/>potheſis</hi> and <hi>Aphoriſms,</hi> as mine is upon the <hi>Copernican Syſtem</hi> and <hi>Philoſophy.</hi>
+            </p>
+            <p>My Books will be compoſed of a Firſt and Second Part: The firſt Part generally treating of Aſtronomical, Aſtrologi<g ref="char:EOLhyphen"/>cal, and Philoſophical Aphoriſms and <hi>Arcana's,</hi> tending to the Propagation of the Celeſtial Sciences, and Reſtauration of <hi>Aſtrology,</hi> and will be introductory to young <hi>Tyro's</hi> in this our new Method, to whoſe conſideration I commend it.</p>
+            <p>And the ſecond Part will be compoſed of my Aſtrological and Philoſophical Judgment for the Quarter I write of; wherein I chieſly ſhall treat of the Weather and its Intemperatures, whereby we have ſometimes ſcarcity of one thing, and ſometimes of ano<g ref="char:EOLhyphen"/>ther; as alſo Sickneſs and Health, Earthquakes, Thunders and Lightnings, Blaſts and Mildews; and at ſome times pleaſant and fruitful Seaſons, thereby producing Plenty and Health: all which I ſhall demonſtrate in their ſeveral Seaſons, as I foreſee them to happen.</p>
+            <p>
+               <pb n="vii" facs="tcp:49380:4"/>I ſhall alſo in ſome other ſucceeding Tracts, treat of the Weather day by day, wherein I ſhall be more large than in this: Which is the larger in the firſt Part, being it is an Introduction to the reſt; Which ſecond Part I chiefly direct to our Countreymen, wherein they may ſee (as an Object in a Glaſs) the Natures of the Sea<g ref="char:EOLhyphen"/>ſons before they happen: Wherein they need not much queſtion the Ve<g ref="char:EOLhyphen"/>rily thereof, for I ſhall not deliver any thing, or impoſe the belief thereof upon any, farther than I can give probable Reaſons for my ſo doing.</p>
+            <p>Therefore theſe following Eſſays, being Select Aſtrological and Philoſophical <hi>Arcana's,</hi> grounded upon Rational and Experimented Athoriſms, never before made publick, and I believe known to ve<g ref="char:EOLhyphen"/>ry few beſides my ſelf; I commend to all Lovers of Learning, and alſo to my Countrymen, hoping I have not caſt a Pearl before Swine, but ſet a Glaſs before the grateful Doves.</p>
+            <closer>
+               <signed>Will. Hunt.</signed>
+               <dateline>Allconbury, <date>March 10. 1695/6.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="advert_for_medicines">
+            <head>ADVERTISEMENT.</head>
+            <p>THeſe Medicines mentioned, are prepared and ſold, both Wholeſale and Retail, by <hi>Hen. Martin</hi> of St. <hi>Ives</hi> in <hi>Huntingtonſhire,</hi> Student in Phyſick and Chymiſtry; namely, a famous Stomach Pill in the <hi>Green-Sickneſs,</hi> and many other Diſeaſes; alſo <hi>Sal Solutivum,</hi> or <hi>Glauber</hi>'s ad<g ref="char:EOLhyphen"/>mirable purging Salt; the <hi>Elixir Salutis,</hi> or purging Cordial, called by ſome <hi>Daſſie's Elixir;</hi> Dr. <hi>Boſtick</hi>'s Cordial, an <hi>Eley</hi> Water; alſo <hi>Spir-Mundus,</hi> both plain and exalted to an <hi>Oleoſum Volatile;</hi> alſo <hi>Vinum Vitae proprietat.</hi> alſo <hi>Arcanum <g ref="char:V">Ʋ</g>niverſalis,</hi> and <hi>Species <g ref="char:V">Ʋ</g>niverſalis;</hi> alſo <hi>Arca<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am Specificatum Catharticum;</hi> alſo ſeveral Acid Spirits dulcified and volatilized, as <hi>Spir. Vitrioli Volatilae;</hi> alſo a very good Medicine to cure the <hi>French Pox,</hi> without ſluxing or much confinement; alſo a good Balſamick Pain-eaſing Pill, exceeding that called <hi>Matthews Pill</hi> or many more of that kind; alſo the Golden or Purging Spirit of <hi>Scurvy-Graſs,</hi> and the Plain; and ſeveral other Chymical Preparations, too tedious to mention here, all with printed Directions.</p>
+         </div>
+         <div type="encomium">
+            <pb n="viii" facs="tcp:49380:5"/>
+            <head>To his Ingenious Friend Mr. <hi>William Hunt,</hi> on his <hi>Demonſtration of Aſtrology.</hi>
+            </head>
+            <l>ASTROLOGY on the old Syſtem grounded</l>
+            <l>Of <hi>Ptolomy,</hi> like lofty Building founded</l>
+            <l>On a Foundation ruinous, decay'd;</l>
+            <l>Sunk in Repute, with Rubbiſh overlaid:</l>
+            <lg>
+               <l>Till, like bold <hi>Hercules,</hi> advent'rous Man,</l>
+               <l>To cleanſe the <hi>Augean</hi> Stable you began,</l>
+               <l>And build it new on Frame <hi>Copernican,</hi>
+               </l>
+            </lg>
+            <l>And Principles <hi>Carteſian,</hi> whoſe bright</l>
+            <l>Conjunction adds new Luſtre to the Light:</l>
+            <l>Whoſe <hi>Monarch</hi> from his Throne, how he diſpenſes,</l>
+            <l>By Vice-Roy Planets, various Influences;</l>
+            <l>And by the ſevenfold Cord of th' Heavenly Ball,</l>
+            <l>Tuneth each Change by Force Mechanical,</l>
+            <l>Heat, Cold, Fruit, Famine, War, Peace, Life and Death,</l>
+            <l>Whence come enlivening Blaſts, whence poiſonous Breath:</l>
+            <l>Whence Meteors above, Earthquakes below,</l>
+            <l>Their hidden Cauſes thou doſt clearly ſhow.</l>
+            <l>Go on, till <hi>ſolidly</hi> thy Pen has given</l>
+            <l>The Frame and Workings of the <hi>Fluid</hi> Heavens.</l>
+            <l>Go on with Lucky Planets, till thou be,</l>
+            <l>Within our <hi>Vortex</hi> the fam'd <hi>Mercury.</hi>
+            </l>
+            <l>Go on, theſe hidden Wonders to explain,</l>
+            <l>Till greater than thy ſelf none doth remain.</l>
+            <closer>
+               <signed>
+                  <hi>Ita Precatur</hi> Thom. Gery, <hi>Sid. S. Col. Alumnus.</hi>
+               </signed>
+               <note>
+                  <hi>N. B.</hi> The Reader is deſired to take notice, that the third <hi>Diagram;</hi> (in <hi>Pag.</hi> 27.) is, by Miſtake, turn'd to one ſide.</note>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:49380:5"/>
+            <head>DEMONSTRATION OF ASTROLOGY.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <p>FOR the Inſtruction of the unskilled in the Art, and that they may the better underſtand our following Diſ<g ref="char:EOLhyphen"/>courſe, it's neceſſary that I explain the Characters of the 12 <hi>Signs,</hi> and the <hi>Planets</hi> and <hi>Aſpects,</hi> as followeth.</p>
+               <p>
+                  <table>
+                     <head>The Characters of the</head>
+                     <row>
+                        <cell role="label">Six Northern Signs.</cell>
+                        <cell role="label">Six Southern Signs.</cell>
+                        <cell role="label">Planets.</cell>
+                        <cell role="label">Aſpects.</cell>
+                     </row>
+                     <row>
+                        <cell>♈ <hi>Aries,</hi>
+                        </cell>
+                        <cell>♎ <hi>Libra,</hi>
+                        </cell>
+                        <cell>♄ <hi>Saturn,</hi>
+                        </cell>
+                        <cell>☌ <hi>Conjunction,</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>♃ <hi>Jupiter;</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>♉ <hi>Taurus,</hi>
+                        </cell>
+                        <cell>♏ <hi>Scorpio,</hi>
+                        </cell>
+                        <cell>♂ <hi>Mars,</hi>
+                        </cell>
+                        <cell>⚹ <hi>Sextile,</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>♊ <hi>Gemini,</hi>
+                        </cell>
+                        <cell>♐ <hi>Sagittary,</hi>
+                        </cell>
+                        <cell>☉ <hi>Sun,</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>♋ <hi>Cancer,</hi>
+                        </cell>
+                        <cell>♑ <hi>Capricorn.</hi>
+                        </cell>
+                        <cell>♁ <hi>Earth,</hi>
+                        </cell>
+                        <cell>
+                           <g ref="char:trine">△</g> 
+                           <hi>Trine,</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>♀ <hi>Venus,</hi>
+                        </cell>
+                        <cell>
+                           <g ref="char:quadrine">□</g> 
+                           <hi>Quartile,</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>♌ <hi>Leo,</hi>
+                        </cell>
+                        <cell>♒ <hi>Aquary,</hi>
+                        </cell>
+                        <cell>☿ <hi>Mercury,</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>♍ <hi>Virgo,</hi>
+                        </cell>
+                        <cell>♓ <hi>Piſces,</hi>
+                        </cell>
+                        <cell>
+                           <g ref="char:Moon">☽</g> 
+                           <hi>Luna.</hi>
+                        </cell>
+                        <cell>☍ <hi>Oppoſition.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <pb n="2" facs="tcp:49380:6"/>And for the ſake of young Artiſts, which are not furniſhed with the Globes, and do not underſtand theſe following Cir<g ref="char:EOLhyphen"/>cles, <hi>&amp;c.</hi> of the Heavens. I ſay, for their Inſtruction, I have drawn two Projections or Diagrams, which I ſhall explain, as followeth, that they may be the more capable to underſtand my following Eſſays; the Circles are theſe which follow.</p>
+               <p>The <hi>Horizon, Meridian,</hi> the <hi>Zenith</hi> and <hi>Nadir,</hi> which are Poles to the Horizon;</p>
+               <p>Theſe alter according to the Place in which you live.</p>
+               <p>The <hi>Equinoctial, Ecliptick,</hi> two <hi>Tropicks,</hi> and the North and South Poles;</p>
+               <p>Theſe are always ſuppoſed fixed in the Heaven, live where you will.</p>
+               <p>The <hi>Horizon</hi> is a great Circle, dividing the uppermoſt or viſi<g ref="char:EOLhyphen"/>ble part of the Heaven from the Inviſible: As ſuppoſe your ſelf at Sea, or upon an high Hill; and looking round you, you ima<g ref="char:EOLhyphen"/>gine that the Sky touched the Earth or Water. Now that Line of Separation of the Sky and Earth, or Water, is the viſible <hi>Horizon,</hi> and ſuch a Circle is ſuppoſed to be in the Heavens.</p>
+               <p>And when the Sun, Moon and Stars, either riſe or ſet, they are then ſaid to be upon the <hi>Horizon.</hi>
+               </p>
+               <p>And note, that this Circle is moveable, becauſe that it alter<g ref="char:EOLhyphen"/>eth according to the Place of your aboad.</p>
+               <p>To this Circle there are aſſigned Poles, which are alſo move<g ref="char:EOLhyphen"/>able as the Circle it ſelf is; theſe Poles are called the <hi>Zenith</hi> and <hi>Nadir.</hi>
+               </p>
+               <p>The <hi>Zenith</hi> is that Point juſt perpendicular over your Head in the Heavens, and is every way equidiſtant from the <hi>Horizon</hi> 90 Degrees.</p>
+               <p>The <hi>Nadir</hi> is that Point in the Heavens oppoſite to it, being alſo 90 Degrees in diſtance from the <hi>Horizon</hi> on the nether ſide thereof.</p>
+               <p>The <hi>Meridian</hi> is a great Circle paſſing through the Poles of the World, and <hi>Zenith</hi> and <hi>Nadir,</hi> and croſſeth the <hi>Horizon</hi> at
+<pb n="3" facs="tcp:49380:6"/>
+Right Angles in the North and South Points.</p>
+               <p>The <hi>Sun, Moon</hi> and <hi>Stars,</hi> when they are full South, as the Sun is every Day at Noon, then are they ſaid to be upon the Meridian. The Circle altereth according to the place of Longitude in which you live.</p>
+               <p>The <hi>Equinoctial</hi> is a great Circle, and croſſeth the <hi>Meridian</hi> at Right-Angles, and croſſeth the <hi>Horizon</hi> in the Eaſt and Weſt Points thereof; thereby, with the <hi>Meridian,</hi> dividing the <hi>Horizon</hi> into four equal Parts, each Part containing 90 Degrees. So that the whole Circle contains four times 90, or 360 De<g ref="char:EOLhyphen"/>grees; as all other Celeſtial Circles are ſuppoſed to contain the ſame Number. This Circle is drawn through the midſt of the Heavens exactly, between the two Poles of the World, being equidiſtant from each Pole 90 Degrees, and is known by the Way or Courſe of the Sun every Year, about the 10th day of <hi>March</hi> and 12th of <hi>September.</hi>
+               </p>
+               <p>The <hi>Ecliptick</hi> is a great Circle, and croſſeth the Equinoctial it Oblique Angels, in the Eaſt and Weſt Points thereof. This Circle is the Way of the Sun or Earth, in the Zodiack, and is divided into twelve Signs, <hi>viz.</hi> ♈, ♉, ♊, <hi>&amp;c.</hi> Each Sign is alſo again ſubdivided into Degrees, containing each 30 De<g ref="char:EOLhyphen"/>grees, making thereby the whole Circle to contain 360 De<g ref="char:EOLhyphen"/>grees. And by reaſon of the Obliquity of this Circle, it con<g ref="char:EOLhyphen"/>ſtitutes Breadth to the Zodiack, extending to 23½ Degrees on each ſide the Equinoctial; the boundary Limits whereof are the North and South Tropicks.</p>
+               <p>The North Tropick being the greateſt Northern Declination of the Sun, who chalks out this Circle by his apparent Diurnal Courſe every Year about the 11th day of <hi>June.</hi> The South is the greateſt Southern Declination of the Sun, and is chalked out by his apparent Diurnal Circuit each Year, about <hi>December</hi> the 12th day.</p>
+               <p>But for the better underſtanding of theſe Circles, I have drawn two Projections of the Sphere, one upon the Plane of
+<pb n="4" facs="tcp:49380:7"/>
+the Horizon of thoſe who live under the Equinoctial Line; and the other being the ſecond, is projected upon the Ho<g ref="char:EOLhyphen"/>rizon of 52 Degrees 21 minutes, (the Latitude of <hi>Allconbury</hi>) North.</p>
+               <p>Now by the firſt Projection or Diagram, you may ſee by the Ecliptick croſſing the Equinoctial Line obliquely, that there are theſe ſix Signs ♈, ♉, ♊, ♋, ♌, ♍, on the North Side the Equinoctial-Line; and alſo the other ſix Signs, ♎, ♏, ♐, ♑, ♒, ♓, on the South ſide of the Equinoctial-Line.</p>
+               <p>So that the Sun always to appearance moving in this Circle, he thereby becomes ſometimes near to us who live in that Point where the Latitude of <hi>Allconbury,</hi> being 52 deg. 21 min. North, croſſes the Meridian: for when in ♈ upon the E<g ref="char:EOLhyphen"/>quinoctial-Line, he marches through ♉ and ♊, and comes to our North Tropick, and then is our Summer; and then he paſſeth back through ♋, ♌, and ♍, and comes to the Equi<g ref="char:EOLhyphen"/>nox again ♎, and then marches ſouthward through ♎, ♏, and ♐, to the Southern Tropick, in which place he is fartheſt from us, and then is our Winter and the Southern Spring; and then as he comes back through ♑, ♒ and ♓, he comes again to the Equinoctial-Line: By which we ſee that they who live un<g ref="char:EOLhyphen"/>der this Line, have two Summers and two Winters. See the <hi>Diagram.</hi>
+               </p>
+               <figure>
+                  <head>
+                     <hi>Projection of the Sphere upon the Horizon of thoſe that live under the Equinoctial Line.</hi> I. Diagram.</head>
+                  <p>
+                     <list>
+                        <item>Artick Circle</item>
+                        <item>Latitude 52.21 the lat. Allconbury</item>
+                        <item>North Tropick</item>
+                        <item>South Tropick</item>
+                        <item>Antartick Circle</item>
+                     </list>
+                  </p>
+                  <p>The outmoſt Circle is the Horizon. The Center is the Zenith and Place of abode of thoſe that live under the Line. The Line N. ♋, ♑, S. is their Meridian. And the Line A B croſſing it at Right-Angles, is the Equinoctial-Line; A is the Eaſt ſide, and B the Weſt ſide. And that Line divided by the 12 Signs, and croſſing the Meridian and Equi<g ref="char:EOLhyphen"/>noctial at Oblique Angles, is the Ecliptick. And the broad Space on both ſides, full of Parallel-lines, is the Zodiack. The Line R ♋ Q, is the North Tropick ♋. And the Line T ♑ W, is the South Tropick ♑. The two Poles lie upon the Horizon, at N the North, and S the South Pole.</p>
+               </figure>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="6" facs="tcp:49380:8"/>
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>Treateth of the <hi>Solar Influence;</hi> how by his apparent Motion, or the real Motion of the Earth, our Seaſons are conſtituted, <hi>viz. Day, Night, Spring, Summer, Autumn,</hi> and <hi>Winter:</hi> Which is delineated to the Eye by the ſecond <hi>Diagram;</hi> which ſhews the Circles of the Sphere as they are projected upon the Plane of our Horizon.</p>
+               </argument>
+               <p>THESE Variations or Seaſons are cauſed by the Motion of the Earth: which is twofold, <hi>viz. Diurnal</hi> and <hi>An<g ref="char:EOLhyphen"/>nual,</hi> (of which I ſhall treat more particularly in the next Chap<g ref="char:EOLhyphen"/>ter): for as the Earth turns round upon her own Axis, ſhe maketh our Days and Nights; and as ſhe moves in the Obli<g ref="char:EOLhyphen"/>quity of the Zodiack, ſhe conſtitutes our Seaſons, <hi>Spring, Summer, Autumn, Winter.</hi>
+               </p>
+               <p>And note, that in our following Diſcourſe, where I write of the Sun's Motion in the Zodiack, <hi>&amp;c.</hi> underſtand that I mean his apparent Motion, and do expreſs my ſelf according to the common way of ſpeaking.</p>
+               <p>About the 10th day of <hi>March</hi> every Year, the Sun is in the beginning of ♈, and upon the Equinoctial Line, and then he riſeth at ♈ full Eaſt, and is South upon the Meridian at AE, and ſets full Weſt at ♎, at which time the Days and Nights are of equal length throughout the World; and from thence he ad<g ref="char:EOLhyphen"/>vanceth through ♈, ♉, ♊, in the Months <hi>March, April, May,</hi> to the 11th of <hi>June,</hi> whereby our Days lengthen, and Nights decreaſe, as the Sun advances nearer and nearer towards us; for when in ♉, then he riſeth at C, culminates at the Meridian, and ſets at D; whereby he riſeth more towards the North, and ſets alſo more North, making a greater Circle above our Hori<g ref="char:EOLhyphen"/>zon.</p>
+               <figure>
+                  <head>
+                     <hi>The Projection of the Sphere up<g ref="char:EOLhyphen"/>on the Plane of our Horizon.</hi> II. Diagram.</head>
+                  <p>The outmoſt Circle is our Horizon. The Center Z is our Zenith, or place where we be. ☉ is the North Pole. The Line N ☉ Z ♋ AE ♑ S is our Meridian. The Line ♈ AE ♎ is our Equinoctial-Line. The Lines upon which you ſee the 12 Signs, <hi>viz.</hi> ♈ ♉ ♊ ♋ ♌ ♍ ♎ ♏ ♐ ♑ ♒ ♓, is the Ecliptick Line. The Line R ♋ Q, is the North Tropick ♋; and the Line T ♑ W, is the South Tropick ♑. S is the South part of the Horizon or Meridian; and N is the North. And the Parallel dotted Lines is the Way of the Sun, when in each reſpective Sign thereunto belonging.</p>
+               </figure>
+               <p>And when that the Sun is advanced to his Northern Tropick s, then he is at his neareſt approach to us under the North
+<pb n="8" facs="tcp:49380:9"/>
+Pole who live at Z: Now our Days are longeſt, and Nights ſhorteſt, the Sun riſeth North-Eaſt at R, and is South at ♋, and ſets North-Weſt at Q; whereby he goeth almoſt round us, and is but little depreſſed under the North ſide of the Horizon, as you may ſee by the <hi>Diagram</hi> by the Circle R ♋ Q: And while, the Sun tranſits theſe Signs, ♈, ♉, ♊, he conſtitutes our <hi>Spring</hi> by his near approach, who (under our great Creator) is the Life and Cheriſher of all Sublunary Bodies.</p>
+               <p>The Birds of the Air chant out their melodious Harmony as a Welcome to his Approach, the Flowers of the Field open for his Entertainment; every thing rejoices and is active in its Sphere; all things vegetate and are pregnant, endeavouring towards a continuation of their Species, while the Sun ad<g ref="char:EOLhyphen"/>vances to our Northern Tropick, who enters ♋ <hi>June</hi> the 11th: And being then at his neareſt Approach, as I ſaid before, he returns back through ♋, ♌ and ♍, in the Months <hi>June, July, Auguſt,</hi> to the 12th of <hi>September,</hi> at which time he comes to the Equinoctial again, (which aforeſaid time is our Summer Quarter.) Now are our Days and Nights of equal length, and the Sun riſeth and ſets in the ſame place as he did on the 10th of <hi>March.</hi> And from this Line he takes his Journey South<g ref="char:EOLhyphen"/>ward through ♎, ♏ and ♐, in the Months <hi>September, October, November,</hi> to the 11th of <hi>December,</hi> thereby conſtituting our Autumnal Quarter, and the Southern Spring. Now do their Vegetables ſpring and flouriſh, and ours tend to Corruption; the Sun by his cheriſhing and enlivening Rays, revives their drooping Spirits, who in his abſence lay locked up in Froſt and Snow; now do their Days lengthen, and ours ſhorten, their Spring increaſing while the Sun cometh to their Southern Tropick, making their longeſt and our ſhorteſt Day. Now are we generally locked up with Froſts and Snow, and they con<g ref="char:EOLhyphen"/>trarily are ſcorch'd with the Sun's perpendicular Rays; and having arrived to his Southern Tropick ♑, which he always doth about the 11th of <hi>December,</hi> he then recedes back
+<pb n="9" facs="tcp:49380:9"/>
+through ♑, ♒ and ♓, in the Months <hi>December, January, Fe<g ref="char:EOLhyphen"/>bruary,</hi> to the 10th of <hi>March;</hi> and cometh to the Sign ♈ a<g ref="char:EOLhyphen"/>gain where he began.</p>
+               <p>By which we ſee that the Sun is (apparently) always in Mo<g ref="char:EOLhyphen"/>tion, nor can he be perſwaded to ſtop or ſtay at all in his Jour<g ref="char:EOLhyphen"/>ney, except by the Almighty Hand, he being of himſelf an impartial Diſpenſer of his Heat or Influence.</p>
+               <p>For without him (the great Miniſter of Light, Motion, Heat and Life, under God, eſpecially of our <hi>Vortex</hi>) Dark<g ref="char:EOLhyphen"/>neſs would uſurp her old Dominions again, we ſhould have neither Day nor Night, Winter nor Summer; all things would be in Confuſion, the Sea would be Ice, and the Land Flint; Motion would ceaſe, and our <hi>Vortex</hi> would turn to a <hi>Chaos</hi> or confuſed Lump again, as they were before the World was made.</p>
+               <p>This Solar Influence is ſo obvious, that none can deny it.</p>
+               <p>But methinks I hear ſome Criticks make this Objection, <hi>viz.</hi> If (ſaith he) the Sun be the Ruler of the Seaſons, and he coming to the Equinoctial Line always at the ſame time of the Year, What makes our Spring to be ſometimes late, and ſome<g ref="char:EOLhyphen"/>times early, coming or putting forward ſooner by five or ſix Weeks ſome Years, than at other ſome? What makes our Da<g ref="char:EOLhyphen"/>ry, Primroſe, Violet, <hi>&amp;c.</hi> to put forth at <hi>Candlemaſs</hi> ſome Years, and at other ſome they are not to be found at <hi>Lady-Day?</hi>
+               </p>
+               <p>What's the Cauſe of Winter's Heat and Summer's Froſts? Can a Winter's Night be warmer than a Summer's Day? Can the Sun in his loweſt Degree and Abſence be more potent, than in his Preſence and almoſt Verticity?</p>
+               <p>Sure if the Sun were the only Cauſe of the Seaſons, they would be (like him) more conſtant, our Heat and Cold would increaſe and decreaſe gradually, according to his Ac<g ref="char:EOLhyphen"/>ceſſes and Receſſes to and from us.</p>
+               <p>
+                  <pb n="10" facs="tcp:49380:10"/>I believe, ſaith our Antagoniſt, that the Sun rules and con<g ref="char:EOLhyphen"/>ſtitutes the Seaſons, <hi>viz.</hi> Day and Night, Winter and Summer: But what makes our Winters and Summers to be ſometimes colder, and ſometimes warmer? Why ſome Winters paſs away without Froſts almoſt, and ſome again are very ſevere and froſty? How ſhall we believe in Aſtrology, when none of our Aſtrologers can foretel, or truly demonſtrate, or ſhew a Rea<g ref="char:EOLhyphen"/>ſon for theſe Variations? Which of them foretold the laſt cold Summer, or this warm Winter? Or which of them can ſhew me why they were ſo? Are they not all of them miſtaken in the Weather of this preſent Winter, which makes us think and ſay, (with <hi>Marcianus) Si vis divinare, totum contrarium ad unguem dicito ejus quod Aſtrologi pollicentur;</hi> that is, if we ſhould ſay Rain, when the Aſtrologer writes fair and dry Wea<g ref="char:EOLhyphen"/>ther, or Warm, when he writes of Cold, we ſhould gueſs right as ſoon as the Aſtrologer, who doth only banter his Rea<g ref="char:EOLhyphen"/>der, and pretended Art. Who can be ſuch Fools as to believe them? Or who can pretend to vindicate Aſtrology, which ought to be credited no farther than it can be demonſtrated? To which I agree, and believe that to be no Art, or at leaſt vain and frivolous, and not to be truſted, which doth not car<g ref="char:EOLhyphen"/>ry Reaſon and Demonſtration along with it.</p>
+               <p>Therefore in our following Eſſays, I ſhall endeavour thereat, and deſire to be credited or believed, no further than I can give a rational Demonſtration thereof.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="11" facs="tcp:49380:10"/>
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>Demonſtrateth the <hi>Copernican Hypotheſis,</hi> and with it my Me<g ref="char:EOLhyphen"/>thod, <hi>viz.</hi> how the Planets are moved round the Sun in their reſpective Orbs in ſeveral ſpaces of Time, whereby they become ſometimes near to the Earth, and ſometimes at a greater diſtance from her, and ſometimes making ſeveral Angles or Aſpects to the Earth, as ſhall be made appear by the third and fourth <hi>Dia<g ref="char:EOLhyphen"/>grams.</hi>
+                  </p>
+               </argument>
+               <p>IN the third <hi>Diagram</hi> you may ſee, that I, according to <hi>Co<g ref="char:EOLhyphen"/>pernicus,</hi> have put the Sun in the Centre of his <hi>Vortex,</hi> he being the Fountain of Light, and Heat, and Prince of the Planets; who, like a great Monarch, having large Dominions, maketh uſe of Deputy-Princes and Magiſtrates to diſtribute his Majeſtick Rays throughout his Dominions. Which Deputies I repreſent to be <hi>Saturn, Jupiter, Mars,</hi> the <hi>Earth, Venus</hi> and <hi>Mercury,</hi> with their ſeveral Satellites which reſpect their ſeveral Orbs, as the <hi>Moon</hi> doth our <hi>Earth.</hi>
+               </p>
+               <p>The Motion of the <hi>Sun</hi> round his own Axis, is the Spring or firſt Mover of the Planets, who are carried round him in their ſeveral Orbits, as you may ſee by the third <hi>Diagram,</hi> which I ſhall demonſtrate as followeth.</p>
+               <p>You ſee the <hi>Sun</hi> is in the Center, and each Planet is put in his reſpective Place and Orbit for the 10th day of <hi>June</hi> 1696, at <hi>Sun</hi>-ſet, being marked with their reſpective Characters. Now the <hi>Sun</hi> moving round his own Axis from Weſt to Eaſt, carrieth the Planets round him the ſame way as followeth.</p>
+               <p>
+                  <hi>Mercury</hi> is the neareſt, and is carried round the <hi>Sun</hi> in 88 days.</p>
+               <p>
+                  <hi>Venus</hi> is the next in order, and is carried round the <hi>Sun</hi> and <hi>Mercury</hi>'s Orbit in 225 Days.</p>
+               <p>
+                  <pb n="12" facs="tcp:49380:11"/>The <hi>Earth</hi> is the next in order, (about whom moves the <hi>Moon</hi> in 27 days and odd Hours) who together with the <hi>Moon</hi> is carried round the <hi>Sun,</hi> and the two Inferiors in her Orbit in 365 days and 6 hours <hi>ferè.</hi>
+               </p>
+               <p>
+                  <hi>Mars</hi> is next, and is carried round the <hi>Sun</hi> in his Orbit in 682 days.</p>
+               <p>
+                  <hi>Jupiter</hi> is next, and is carried round the <hi>Sun</hi> in his Orbit in 12 Solar Years.</p>
+               <p>
+                  <hi>Saturn</hi> is the laſt in order, and is carried round the <hi>Sun</hi> and all the Planets in his Orbit, in almoſt 30 Solar Years. Beyond whom is the large and unaccountable Space, or Heavens of the fixed Stars.</p>
+               <p>And theſe aforeſaid Planets are moved round the <hi>Sun</hi> by a twofold Motion, <hi>viz.</hi> round their own Axis, and alſo round their reſpective Orbits, through the Zodaical Signs about the <hi>Sun.</hi>
+               </p>
+               <p>Like as a Bowl is trundled to a certain Mark or Jack, it moves round its Axis, and alſo from the place of your Station where you delivered it; for by its often turning round its Axis, it at laſt arrives at or near the aforeſaid Jack, only with this difference, that as the Bowl moves in a ſtreight Line, the Planets are moved circularly in their Orbits about the <hi>Sun.</hi> But I ſhall explain their Motions more plain by the Motion of the Earth, as followeth. But before I begin, a word or two to explain ſome Requiſits belonging to the third <hi>Diagram.</hi> 1. Underſtand that the <hi>Earth</hi> is placed on the Eaſt ſide of the Sun, who appears to ſet in the Weſt, to the Inhabitants who live at the Point B. 2. The Point ♑ (<hi>Saturn</hi> being therein) is the Eaſt ſide of the <hi>Diagram.</hi> 3. The Line perpendicular from ♎ down to B, is the Meridian, or South, and its oppoſite the North Point. 4. The Center of the <hi>Earth</hi> is its Axis, about which it moves, and the outward Circle of the <hi>Earth</hi> A, B, C, D, is that Line or Surface of the <hi>Earth,</hi> which lieth parallel under the Equinoctial Line, and repreſents the Equator. 5. Thoſe Lines
+<pb n="13" facs="tcp:49380:11"/>
+drawn through the twelve equal Diviſions of the Lunar Or<g ref="char:EOLhyphen"/>bit, are the Right Aſcenſions of the twelve Zodiacal Signs.</p>
+               <p>Now ſuppoſe that you lived at the Point B upon the Equa<g ref="char:EOLhyphen"/>tor, then would the Sun ſeem to ſet to you in the Weſt, and <hi>Saturn</hi> preſently after appear to riſe near the Eaſt; for the <hi>Earth</hi> turning or trundling round its Orbit and Axis from Weſt to Eaſt, the Zodiacal Signs do each ſeverally appear to riſe, culminate and ſet, as alſo the fixed Stars, the Sun and Planets. Now the Earth turning from B to C, which it performs in ſix hours, from the aforeſaid time of Sun-ſet, then would it be Midnight, the Earth's Body interpoſing between the Sun and you at C; and in ſix hours more you would, by the Earth's Motion, be carried to D, then would the Sun appear to riſe; and in ſix hours more you would be moved to A, and then would the Sun be upon your Meridian, <hi>viz.</hi> juſt over your Heads, making thereby Noon with you; and in ſix hours more, (making in all 24 hours the length of the Day and Night) you would be brought to the ſame Place again, and the Sun ſetting as before; and by that time that the Earth had moved round her Axis 365 times, thereby conſtituting as many Days, ſhe would in the ſaid ſpace of time be carried round the Sun in her Orbit, through the Obliquity of the Ecliptick, and the 12 Zo<g ref="char:EOLhyphen"/>diacal Signs thereby conſtituting our Year, as was before treated on in the laſt Chapter.</p>
+               <p>And as the Earth is carried round the Sun, from Eaſt to Weſt, both in reſpect of her Axis as well as Orbit, ſo likewiſe are reſt of the Planets, though with different Spaces of Time, both in reſpect of their Diurnal as well as their Annual Revo<g ref="char:EOLhyphen"/>lutions, who (as the Earth) are carried round in the Obli<g ref="char:EOLhyphen"/>quity of the Ecliptick, through the 12 Zodiacal Signs in their ſeveral Orbits; whereby they appear to us as the Sun doth, <hi>viz.</hi> ſometimes in Summer, and ſometimes in Winter Signs; ſo that we have a Saturnine Year, a Jovial Year, a Martial Year as well as a Solar Year, and alſo a Lunar Year. <hi>Venus</hi> and
+<pb n="14" facs="tcp:49380:12"/>
+                  <hi>Mercury</hi> being within the Perimeter of the Earth's Orb, ſeem to us to be the Sun's particular Attendants or Lacquies, <hi>Venus</hi> never being above 48 Degrees, and <hi>Mercury</hi> never above 27 Degrees from him, either before or after him. However they have their ſeveral Revolutions or Years in reſpect of them<g ref="char:EOLhyphen"/>ſelves.</p>
+               <p>Authors pretend to tell us their Diurnal Motions about their own Axis: Among whom <hi>Rheita</hi> affirms, that <hi>Mercury</hi>'s Day or Motion about himſelf is about ſix hours; that the Motion of <hi>Venus</hi> about her Axis is 14 hours: <hi>Mars</hi> his Day or Motion a<g ref="char:EOLhyphen"/>bout his Axis is in 45 hours: The Diurnal Motion of <hi>Jupiter</hi> is performed in 11 of our Days and 20 Hours.</p>
+               <p>The Diurnal Motion of <hi>Saturn</hi> is performed in 29 of our Days and ten Hours: But theſe are uncertain, and not perti<g ref="char:EOLhyphen"/>nent to our Purpoſe, therefore I ſhall not impoſe the belief thereof upon you; but for their Annual Revolutions we are certain of, and find it very material to our Purpoſe, and ne<g ref="char:EOLhyphen"/>ceſſary to be known.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV.</head>
+               <argument>
+                  <p>A brief Diſcourſe of the five old Planetary Aſpects.</p>
+               </argument>
+               <p>BY reaſon of the different Motion of the Planets in their ſeveral Orbs, they become ſometimes in <hi>Conjunction,</hi> and ſometimes in <hi>Oppoſition;</hi> and ſometimes beholding one another with different Angles and Faces, both in reſpect of the Earth and themſelves: Which Angles or Radiations are by Aſtrologers called <hi>Aſpects,</hi> and were taken notice of by the Antients to be of ſingular Efficacy and Power in the Mutations of the Air. The Reaſons why they embraced only theſe Poſitions, are too long and tedious for me to treat of here; but I ſhall explain them, and ſay ſomething thereof, and in ſome other Tract I ſhall
+<pb n="15" facs="tcp:49380:12"/>
+inlarge further thereupon: In the mean time if you be impati<g ref="char:EOLhyphen"/>ent, I refer you to that learned and incomparable Piece wrote by Sir <hi>Chriſtopher Heydon.</hi>
+               </p>
+               <p>And for the Explanation of the aforeſaid Aſpects, <hi>&amp;c.</hi> I have drawn the fourth <hi>Diagram,</hi> which is drawn for the ſame Time that the third <hi>Diagram</hi> is drawn for, <hi>viz.</hi> the 11th day of <hi>June</hi> 1696, at Sun-ſet, and is only to ſhew the Planetary A<g ref="char:EOLhyphen"/>ſpects that are then in the Heavens, and is the ſame as the Lunar Orbit in the third <hi>Diagram,</hi> and is drawn larger on pur<g ref="char:EOLhyphen"/>poſe to demonſtrate the Aſpects.</p>
+               <p>Which are five in number, <hi>viz. Conjunction, Oppoſition, Sex<g ref="char:EOLhyphen"/>tile, Quartile,</hi> and <hi>Trine.</hi>
+               </p>
+               <p>A <hi>Conjunction</hi> is, when two Planets are in one Sign and Degree, or within ſeven or eight Degrees of one another in diſtance; for the Planets admit of their Rays, and are ſaid to be in <hi>Conjunction</hi> or Aſpect, though not bodily conjoined, and that Aſpect is called a <hi>Platick Aſpect;</hi> but when they are in per<g ref="char:EOLhyphen"/>fect Aſpect to a Degree and Minute, then that is called a <hi>Par<g ref="char:EOLhyphen"/>tile Aſpect.</hi> And note, that the nearer they are, the Aſpect is the ſtronger and of more force.</p>
+               <p>A <hi>Conjunction,</hi> as I ſaid before, is when two Planets are both in one Sign and Degree, whereby the Earth and they come into a Diametrical Line; and when the two Planets are partilely joined, both in reſpect of Longitude and Latitude, then is the higheſt or Superior eclipſed by the loweſt or Inferi<g ref="char:EOLhyphen"/>or: Alſo the two Planets do then riſe South, and ſet both at the ſame time; and this Aſpect or ☌ is ſhewed by <hi>Jupiter</hi> and <hi>Mars</hi> in the fourth <hi>Diagram,</hi> where you may ſee how they ſend their mixed and united Rays to the Earth.</p>
+               <p>They may alſo be ſeen in the Firmament (if the Air be clear) at the ſame time the <hi>Diagrams</hi> are drawn for, <hi>viz. June</hi> the 11th, after Sun-ſet, to be near the Weſt, within a Span's breadth of one another; a beautiful Sight to behold.</p>
+               <p>
+                  <pb n="16" facs="tcp:49380:13"/>An <hi>Oppoſition</hi> is, when two Planets are 180 Degrees, or half the Zodiack in diſtance, the Earth being in a Diametrical Line between them. And to them who live under the Equi<g ref="char:EOLhyphen"/>noctial Line, always when one riſeth the other ſets, as is evi<g ref="char:EOLhyphen"/>dent by <hi>Saturn</hi> and <hi>Mercury</hi> in the fourth <hi>Diagram: Mercury</hi> be<g ref="char:EOLhyphen"/>ing at his fartheſt Elongation almoſt from the Sun, may at the aforeſaid time be ſeen to ſet North-Weſt after him, and <hi>Saturn</hi> at the ſame time to riſe South-Eaſt in oppoſition to him.</p>
+               <p>A <hi>Quartile</hi> Aſpect is, when two Planets are elongated 90 Degrees, or a fourth part of the Zodiacal Circle, making there<g ref="char:EOLhyphen"/>by a Right Angle at the Earth: This Aſpect is demonſtrated by the Sun and Moon, ſhe being in her laſt Quarter; view them in the fourth <hi>Diagram.</hi> And note, that to them who live un<g ref="char:EOLhyphen"/>der the Line, where the Meridian is their Zenith; always when one Planet is upon the Horizon, either riſing or ſetting, then the Planet in <hi>Quartile</hi> to him is in the Zenith or Nadir, <hi>viz.</hi> upon the Meridian. Which Aſpect is of great force, for divers Reaſons which ſhall hereafter be made appear, but for brevity muſt be omitted here; the Influence of a Planet upon the Ho<g ref="char:EOLhyphen"/>rizon or Meridian, is vulgarly known even to the Ruſtick, who when he meets with a miſling or hazy Air in the Morn<g ref="char:EOLhyphen"/>ing, he remains in doubt until the Sun hath mounted the Me<g ref="char:EOLhyphen"/>ridian, and then he tells you, that the Day will either clear up and be fair, or elſe prove rainy down-right; the Reaſon (though unknown to him) is this, that the Sun then coming to his Virtical ſtrength, hath more Power to diſſolve the Vapours or Clouds, if not beheld by ſome other Planet which then may riſe above the Horizon: As ſuppoſe ♄ or ♂, and then that Planet getting above as aforeſaid, cauſeth it to rain down<g ref="char:EOLhyphen"/>right, which before was only miſly.</p>
+               <p>A <hi>Sextile</hi> Aſpect is, when two Planets are a ſixth part of the Zodiack, or 60 Degrees elongated, making thereby an Equi<g ref="char:EOLhyphen"/>lateral Triangle at the Earth, which is delineated by the <hi>Moon</hi> and <hi>Saturn</hi> in the fourth <hi>Diagrams.</hi>
+               </p>
+               <p>
+                  <pb n="17" facs="tcp:49380:13"/>A <hi>Trine</hi> Aſpect is the diſtance of two Planets, a third part of the Zodiack, and is an Angle of 120 Degrees, making an Equi<g ref="char:EOLhyphen"/>lateral Triangle in the Heavens, and is delineated by <hi>Saturn</hi> in <hi>Trine</hi> to <hi>Jupiter</hi> and <hi>Mars,</hi> who ſend their Rays to the Seven Stars, as you may ſee by the aforeſaid <hi>Diagram.</hi>
+               </p>
+               <p>Theſe two laſt Aſpects are not of ſuch force in the Mutation of the Air as the other, which ſhall be made appear in my next, together with the Reaſon of their Influence.</p>
+               <p>If you have a mind to view theſe Diſtances or Aſpects in the Heavens, you may ſee them at the aforeſaid Time, <hi>viz.</hi> near an Hour after Sun-ſet, when you may ſee <hi>Saturn</hi> riſing South-Eaſt in <hi>Oppoſition</hi> to <hi>Mercury,</hi> ſetting North-Weſt; and beholding <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> and <hi>Mars</hi> with a Benevolent <hi>Trine,</hi> they being near the Weſt: and if you riſe the next Morning before the Sun riſes, you may ſee the <hi>Moon</hi> in <hi>Sextile</hi> of <hi>Saturn,</hi> and in <hi>Quartile</hi> to the Riſing <hi>Sun.</hi> And ſo much ſhall ſuffice at preſent concern<g ref="char:EOLhyphen"/>ing the Aſpects.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <argument>
+                  <p>Treateth of the Nature of the Planets.</p>
+               </argument>
+               <p>THE Natures of the Planets were firſt found out by the diligent Obſervation and Experience of the Antients; amongſt whom <hi>Ptolomy</hi> was the chief, who left us their Natures and Affections, and wrote the whole Body of <hi>Aſtrology,</hi> and left it to Poſtority, he being called the <hi>Prince of Aſtrologers.</hi> It's pity his Foundation was laid upon the Sands, for if he had built it upon the <hi>Philolaian</hi> or <hi>Copernican</hi> Hypotheſis, which was in<g ref="char:EOLhyphen"/>vented by <hi>Philolaus</hi> before <hi>Ptolomy</hi>'s Time, he would by his Ob<g ref="char:EOLhyphen"/>ſervations and Induſtry have done Wonders, and Aſtrology by this time might have been much approved. But Learning as well as other things is ſubject to Changes and Viciſſitudes, ac<g ref="char:EOLhyphen"/>cording
+<pb n="18" facs="tcp:49380:14"/>
+as it doth pleaſe God to reveal himſelf to Man; for tho ſome Men in any Age be never ſo wiſe, and do leave their Aphoriſms and Arcana's to Poſterity, yet by ſeveral Accidents they may be loſt, for either the Genius of that Age may not be fit or capable to receive them; or they may be loſt by Fires, or the Subverſion and Alteration of Governments, <hi>&amp;c.</hi>
+               </p>
+               <p>Is it not great pity that the Works of that moſt wiſe Man <hi>Solomon</hi> ſhould be loſt, who wrote of all things under the Sun, from the Cedar of <hi>Lebanon</hi> to the Hyſop that grows upon the Wall? <hi>Wiſdom of Solomon,</hi> Chap. 7. But to our purpoſe.</p>
+               <p>
+                  <hi>Ptolomy,</hi> and all Aſtrologers after him, (Dr. <hi>Goad</hi> excepted) define the Nature of the Planets as followeth.</p>
+               <p>
+                  <hi>Saturn</hi> cold and dry; <hi>Jupiter</hi> hot and moiſt; <hi>Mars</hi> hot, dry, and burning; the <hi>Sun</hi> hot and dry, more temperate than <hi>Mars; Venus</hi> cold and moiſt; <hi>Mercury</hi> cold and dry; the <hi>Moon</hi> cold and moiſt. This is their brief Account of the Na<g ref="char:EOLhyphen"/>tures of them.</p>
+               <p>They tell you alſo why they retain thoſe Natures, too tedious here to inſert, becauſe I think it not material, being their Opi<g ref="char:EOLhyphen"/>nion is grounded upon a falſe Suppoſition.</p>
+               <p>Dr. <hi>Goad,</hi> a late Author, denies the Account, and makes <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> to be a cold Planet, yea colder than <hi>Saturn.</hi>
+               </p>
+               <p>How ſhall we agree theſe Opinions? Truly I think they are both miſtaken, being both upon a wrong and falſe Foundation; for Dr. <hi>Goad</hi> treads in <hi>Ptolomy</hi>'s ſteps in all things, except in this, <hi>viz.</hi> about the Nature of the Planets.</p>
+               <p>Now I ſhall lay down my Judgment of their Natures, which I preſume will hold the Teſt of Experience, which is the only Refiner of Truth.</p>
+               <p>
+                  <hi>Saturn</hi> I believe to be (as well as the reſt) an Opake Body, and (as ſaith <hi>Ptolomy</hi>) of a cold and dry Nature, eſpecially by Accident, for we are always ſenſible of his chill Influence, when he is in <hi>Perigaeon,</hi> or in Heliocentrick ☌ with the Earth: and
+<pb n="19" facs="tcp:49380:14"/>
+for Demonſtration view the fifth <hi>Diagram,</hi> where you'l ſee <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> in <hi>Perigaeon,</hi> or in conjunction with the Earth, which was the principal Cauſe of the laſt cold Summer. I could bring ſe<g ref="char:EOLhyphen"/>veral Examples and Reaſons to prove my Aſſertion; two or three Inſtances we have had in our late cold Summers, which were always cold when <hi>Saturn</hi> was in <hi>Perigaeon.</hi>
+               </p>
+               <p>
+                  <hi>Mars</hi> all agree to be hot, dry, and burning, yea, hotter than the Sun himſelf: Which ſeems a Contradiction, that a reflected Light ſhould be hotter than the Fountain from whence it pro<g ref="char:EOLhyphen"/>ceeds. To which I anſwer, that it may be by Accident: As for Inſtance. The reflex burning Glaſs, which receiving the Sun's Rays, and contracting and uniting them, they become hotter than the Sun's Rays; and being darted upon any combuſtible Matter, it ſets it on fire. And ſuch is the Nature of <hi>Mars,</hi> who when in <hi>Perigaeon,</hi> or near the Earth, doth make us ſenſible of his Heat. View the ſixth <hi>Diagram,</hi> where <hi>Mars</hi> is in conjunction with the Earth, which at the ſame time cauſed a very warm Seaſon.</p>
+               <p>And now I come to <hi>Jupiter,</hi> concerning whom there hath been much Controverſy: <hi>Ptolomy</hi> making him warm, and Dr. <hi>Goad</hi> contrarily making him a cold Planet, and gives very pro<g ref="char:EOLhyphen"/>bable Arguments to prove his Aſſertions.</p>
+               <p>How ſhall I reconcile theſe two Opinions, for they both plead Reaſon and Experience for their ſo doing?</p>
+               <p>
+                  <hi>Ptolomy</hi> thinks him warm, becauſe when ſimply in oppoſition with the Sun, he produceth a warm Seaſon, and when joined with <hi>Mars,</hi> he often produces great Heat and Thunder.</p>
+               <p>And Dr. <hi>Goad</hi> maketh him a cold Planet, becauſe that when joined with <hi>Saturn,</hi> he augments Cold; yea and in Winter, when joined with <hi>Mars,</hi> he hath a hand in many hard Froſts, he being the Parent of the North Wind, and Serenity, both great Friends to a cold Conſtitution; with many more Reaſons of the like Nature.</p>
+               <p>
+                  <pb n="20" facs="tcp:49380:15"/>Now my Opinion of <hi>Jupiter</hi> is, that he is a Planet compoſed of Nitrous Particles, which like Gunpowder or Nitre, when it meets with Cold, it actuates it: And when it meets with Fire or Heat, it actuates that, and breaketh forth into Combuſtions.</p>
+               <p>
+                  <hi>Jupiter</hi> being a Planet full of Nitre, doth (as the <hi>Carteſians</hi> ſay) ſix the Particles of the Atmoſphere, thereby ſtopping or hindering Motion, and then Cold followeth of courſe, which is an Eſſential Quality, and was in being before the World was created; for in the beginning this <hi>Vortex</hi> was a Chaos or confuſed Lump, the Air, Earth, and Water, being congealed or mixed together.</p>
+               <p>But when God created the Sun, Moon, and Planets, by put<g ref="char:EOLhyphen"/>ting them in Motion, this Motion was the Original of Heat, as may be proved by the violent Motion of any thing, as ſuppoſe a Mill, which will cauſe Heat to that Degree, that ſhe will fire if not prevented.</p>
+               <p>Now when this Motion is hindred by the Nitrous Particles of <hi>Jupiter,</hi> then Cold the prime Quality takes place. As is proved by mixing of Salt or Nitre with Snow, it will freeze and cauſe Ice by the Fire-ſide. But if this Nitre or Gunpowder be join<g ref="char:EOLhyphen"/>ed with hot and ſulphurous Planets, then it cauſeth Combu<g ref="char:EOLhyphen"/>ſtions in the Atmoſphere, as Heat with Thunder and Coruſca<g ref="char:EOLhyphen"/>tions, <hi>&amp;c.</hi>
+               </p>
+               <p>So that I define <hi>Jupiter</hi> to be of a Nitro-ſulphurious Nature, like to Gunpowder, and is either Hot or Cold by Accident, but rather a favourer of Cold if ſimply conſidered: Which afore<g ref="char:EOLhyphen"/>ſaid Definition I ſhall prove by Examples.</p>
+               <p>The Nature of the Sun needs no Definition, it being vulgar<g ref="char:EOLhyphen"/>ly known to every Plow-boy, all the World being ſenſible of his Warmth, nothing being hid from the Heat thereof.</p>
+               <p>But as for the Natures of the Inferiors, <hi>viz. Venus, Mercury,</hi> and the <hi>Moon,</hi> I ſhall at preſent reſt with the Opinion of the Antients, for brevity-ſake, they not having ſo great Influence in the general Conſtitution of the Seaſons: But it may be ex<g ref="char:EOLhyphen"/>pected
+<pb n="21" facs="tcp:49380:15"/>
+in ſome ſucceeding Book, where I treat of the daily Vi<g ref="char:EOLhyphen"/>ciſſitudes of the Air, and ſhall ſay no more here, having cleared the great Point between <hi>Ptolomy</hi> and Dr. <hi>Goad.</hi>
+               </p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI.</head>
+               <p>IN this Chapter I ſhall explain my Method; and as I have in the foregoing Chapters explained the moſt material Circles, <hi>&amp;c.</hi> of the Sphere; and alſo how, by the Motion of the Sun or Earth, our Seaſons are conſtituted, <hi>viz.</hi> Day, Night, Win<g ref="char:EOLhyphen"/>ter and Summer; together with the Natures and Aſpects of the Planets:</p>
+               <p>So now in this, and the following Chapter, I ſhall demon<g ref="char:EOLhyphen"/>ſtrate why ſome Winters are warmer than others, and ſome Summers are colder than other-ſome; and the reaſon why our Spring ſometimes is late, and at other times early, coming ſoon<g ref="char:EOLhyphen"/>er by five or ſix Weeks ſome Years than other.</p>
+               <p>
+                  <hi>Firſt,</hi> Know that the general Conſtitutions of the Seaſons are cauſed by the Diurnal and Annual Motion of the Earth, as before treated of.</p>
+               <p>But the Reaſon of their Variations muſt be examined by the Annual and Revolutional Motion of the reſt of the Planets, eſpecially the Superiors, the Inferiors having moſt to do in the daily Mutations of the Air.</p>
+               <p>Now the Motion of the Planets is to be conſidered in a threefold manner.</p>
+               <p n="1">1. According to their Revolution in reſpect of the Ecliptick, whereby they ſometimes, as the Sun, (though with ſome diffe<g ref="char:EOLhyphen"/>rence of Latitude) are in Eſtival Signs, and ſometimes in Win<g ref="char:EOLhyphen"/>ter Signs.</p>
+               <p n="2">2. They are to be conſidered according to their Motion in this <hi>Copernican</hi> Projection, whereby they are ſometimes near to the Earth, and ſometimes at remoter diſtance, having great In<g ref="char:EOLhyphen"/>fluence
+<pb n="22" facs="tcp:49380:16"/>
+at ſome times, and at other times in abject Places, and almoſt void of Influence in reſpect of us.</p>
+               <p n="3">3. They are to be conſidered as to their <hi>Aphelions</hi> and <hi>Peri<g ref="char:EOLhyphen"/>helions,</hi> they moving in Eliptick Circles, as alſo their Diurnal Revolutions; paſſing by the Motion of their <hi>Satellites,</hi> which as yet have no known Influence.</p>
+               <p n="4">4. Their Natures are chiefly to be noted, both Simple and Complicated: Theſe are the chief relating to the ſeveral Conſtitutions of the Seaſons.</p>
+               <p>But in the Diurnal and Horary Viciſſitudes, we conſider the Motion of <hi>Venus</hi> and <hi>Mercury,</hi> and chiefly the Lunar Mo<g ref="char:EOLhyphen"/>tion, as alſo their Aſpects and Tranſits: And the Diurnal Motion of the Earth, whereby the Sun, Moon, and Stars, be<g ref="char:EOLhyphen"/>come ſometimes upon the Meridian or Zenith, and ſometimes under the Earth or Nadir, and ſometimes upon the Horizon, ei<g ref="char:EOLhyphen"/>ther riſing or ſetting. And note, that thoſe Planets are of greateſt Force which are neareſt to us, both in reſpect of their <hi>Perigaeons,</hi> as well as being Vertical, and having North Declination and La<g ref="char:EOLhyphen"/>titude; as alſo that Planet which is above the Horizon: and the more vertical he is, the ſtronger he is; which alſo is aug<g ref="char:EOLhyphen"/>mented or diminiſhed, according as he is beheld by the Sun, or the reſt of the Planets. Theſe and many more <hi>Phenomena's</hi> are to be conſidered, and well poiſed in Judgment, of which I ſhall treat in ſome following Tracts: This Tract only treats of the general Nature and Conſtitution of the Seaſons. And I ſhall farther explain the <hi>Copernican</hi> Projection, or <hi>Diagrams,</hi> which ought well to be underſtood by every one that would be a Pro<g ref="char:EOLhyphen"/>ficient in the Knowledg of the Weather.</p>
+               <p>Which <hi>Diagrams</hi> are a new Projection, and never before made publick: They ſhewing the true Motions of the Earth, and other Planets about the Sun; and repreſent to you the true Geocentrick Places of the Planets, as well as Aſpects; but in the <hi>Heliocentrick</hi> Places and Aſpects of the Planets, they vary a little from Truth, becauſe of their apparent Eliptical Motions.</p>
+               <p>
+                  <pb n="23" facs="tcp:49380:16"/>And note, that what I ſay concerning the Demonſtration of the third <hi>Diagram,</hi> underſtand the ſame of the reſt.</p>
+               <p>In the ſaid <hi>Diagram</hi> the Sun is the Center, the other Planets move about him in their ſeveral Orbits, as I have demonſtrated in the third Chapter of this Book.</p>
+               <p>In this Diagram you may ſee, that the Lunar Orbit is divided into 12 equal Parts, being the Right Aſcenſions of the 12 Zodiacal Signs, <hi>viz.</hi> ♈, ♉, ♊, ♋, ♌, ♍, ♎, ♏, ♐ ♑, ♒, ♓, to thoſe who live under the Zodiack.</p>
+               <p>Now when a Planet is in the Point ♑, then I ſay that Planet <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in <hi>Heliocentrick Conjunction</hi> with the Earth; and in <hi>Perigae<g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> or at his neareſt approach to the Earth, when in the fore<g ref="char:EOLhyphen"/>ſaid Poſition. But note, that I call a Planet in <hi>Perigaeon,</hi> when that he is elongated, from the Point ♑, as far on either ſide as the two next Signs, <hi>viz.</hi> ♐ and ♒, that is 30 Degrees on each ſide.</p>
+               <p>And a Planet poſited within a few Degrees of the Lines ♏ or ♓ on either ſide, then I ſay that Planet is in <g ref="char:trine">△</g> with the Sun.</p>
+               <p>And a Planet upon or near the Lines ♎ or ♈, then is that Planet in <hi>Square</hi> to the Sun.</p>
+               <p>And when upon the Lines ♍ or ♉, then in <hi>Sextile</hi> of the <hi>Sun.</hi>
+               </p>
+               <p>And when in or near the Line A ♋, then he is in ☌ with the <hi>Sun.</hi>
+               </p>
+               <p>But when in the Space between the Points ♍ and ♋, or ♉ and ♋, then, I ſay, that Planet is in an Abject place, or place void of Influence, or at leaſt having very weak Influence.</p>
+               <p>And note, when two Planets are in both in Abject places, as ſuppoſe ♄ in 15 Degrees of ♌, in <hi>Quartile</hi> of ♃ in 15 Deg. of ♉, then is that <hi>Aſpect</hi> of much leſs Force than if they were in <hi>Aſpect,</hi> in other places poſited nearer the Earth; which Aphoriſm ought well to be heeded.</p>
+               <p>
+                  <pb n="24" facs="tcp:49380:17"/>And note farther, that what I have here ſaid, relates chiefly to the Superiors, the <hi>Phenomena</hi> of the Inferiors being ſomething different to them; for the Demonſtration whereof I ſhall ſay nothing until my next appears.</p>
+               <p>And what I have ſaid of this <hi>Diagram,</hi> I would have you un<g ref="char:EOLhyphen"/>derſtand the ſame of the 5th and 6th <hi>Diagrams,</hi> and in all others of the ſame Projection.</p>
+               <p>
+                  <hi>Mars</hi> is called by me the <hi>Sun's Deputy,</hi> who if near or at a fit diſtance, he becomes hotter than the Sun himſelf, who by re<g ref="char:EOLhyphen"/>flecting the united Rays of the Sun upon us, like a Burning-glaſs doth make them the more ſtrong and forcible to us; but if he be in an Abject place, then he hath little or no Force; for place a Burning-glaſs in an Abject place, or ſo far off that the reflected Rays do not reach the Matter or Object to be cal<g ref="char:EOLhyphen"/>cined, it cannot fire it.</p>
+               <p>
+                  <hi>Saturn</hi> is famed on the other hand for Cold, who being com<g ref="char:EOLhyphen"/>poſed of Nitrous Particles, doth, when near the Earth, (and not oppoſed or hindred by ♂ his Rays) by his Nitrous Parti<g ref="char:EOLhyphen"/>cles, ſtop or ſlacken the Motion of the <hi>Atmoſphere,</hi> and thereby (as I have ſaid before) cauſe Cold.</p>
+               <p>But <hi>Jupiter</hi> ſimply conſidered, <hi>viz.</hi> when powerful or near the Earth in <hi>Perigaeon,</hi> and in Eſtival Signs, cauſeth Serenity, and wholſome North Winds in Winter, ſeaſonable Froſts; and in Summer a ſerene, ſweet, temperate, and prolifick Air, being rather a favourer of Cold than Heat.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII.</head>
+               <p>IN this Chapter I ſhall demonſtrate my former Method by Examples, which ſhall be done by the cold Summer in the Year 1695, and the ſucceeding warm <hi>January</hi> and <hi>February.</hi>
+               </p>
+               <p>And firſt, for the reaſon of the cold Summer 1695, view the fifth <hi>Diagram,</hi> which is drawn for the <hi>Sun</hi>'s Ingreſs into the
+<pb n="25" facs="tcp:49380:17"/>
+Tropical Sign ♋, <hi>viz. June</hi> the 11th at Sun-ſet; in which <hi>Dia<g ref="char:EOLhyphen"/>gram</hi> you ſee that <hi>Saturn</hi> is in <hi>Perigaeon,</hi> or near the Earth, and <hi>Mars</hi> in an abject Place, as alſo ♃, which is the Cauſe of our cold Summer; for <hi>Saturn</hi>'s nearneſs fills our Atmoſphere with Nitre; and <hi>Mars</hi> not being able to oppoſe his chill Influence, we therefore had a very cold Summer, notwithſtanding the <hi>Sun</hi> was then in his greateſt Northern Vertical Strength.</p>
+               <p>And in the next place, let us ſee the Reaſon for our warm and favourable Winter, eſpecially in <hi>January</hi> and <hi>February</hi> fol<g ref="char:EOLhyphen"/>lowing the ſaid cold Summer, which two Months are as much fam'd for Cold, as <hi>June</hi> and <hi>July</hi> are for Heat.</p>
+               <p>In the ſixth <hi>Diagram,</hi> which is drawn for the <hi>Sun</hi>'s entrance into ♓, <hi>viz.</hi> the 8th of <hi>February</hi> at Sun-ſet, wherein we find the cold Planet <hi>Saturn</hi> in an abject place, being thereby far re<g ref="char:EOLhyphen"/>mote from the Earth; and <hi>Mars</hi> and <hi>Jupiter</hi> are in <hi>Perigaeon,</hi> and alſo in an Eſtival Sign, <hi>viz.</hi> on this ſide the Equator, and <hi>Mars</hi> in a Southern and Winter Sign: for depreſſed <hi>Mars</hi> in this place becomes our Deputy-<hi>Sun,</hi> who, like a Burning-Glaſs, warms our Atmoſphere by reflecting back the <hi>Sun</hi>'s Rays upon us, thereby warming our Air very much; whoſe Heat is aug<g ref="char:EOLhyphen"/>mented by the Proximity of <hi>Jupiter,</hi> they both being in Oppo<g ref="char:EOLhyphen"/>ſition of the <hi>Sun.</hi>
+               </p>
+               <p>In Places about ten degrees North and South Declination, <hi>viz.</hi> on each ſide the Equinoctial, yea all that part of the Torrid Zone, they felt <hi>Mars</hi> his Influence with a Vengeance; for <hi>Mars</hi> being in ☍ of the <hi>Sun,</hi> and in Conjunction with <hi>Jupiter</hi> a Ni<g ref="char:EOLhyphen"/>troſulphurious Planet, would, like Gun-powder, cauſe violent Combuſtions in the Atmoſphere, great and violent Thunders and Lightnings, burning up the very Vegetables with their great Heat.</p>
+               <p>But we in the more Northern Climates, by reaſon of the <hi>Sun</hi>'s Abſence and great Depreſſion, only enjoy'd a more warm Sea<g ref="char:EOLhyphen"/>ſon than uſual at the Seaſon; nay it was oft and many a day in <hi>January</hi> and <hi>February,</hi> warmer than ſeveral days in <hi>June</hi> and <hi>July</hi> preceding.</p>
+               <p>
+                  <pb n="26" facs="tcp:49380:18"/>We had Thunder and Lightning even at <hi>Chriſtmas</hi> this Year in our Climate, cauſed by the aforeſaid Poſition.</p>
+               <p>But before I conclude this Chapter, I ſhall ſay ſomething concerning the unparallell'd and never to be forgotten Froſt, which happen'd in the Year 1683, which moſt Aſtrologers judged to be a Badg of the Effects of the grand ♂ of <hi>Saturn</hi> and <hi>Jupiter</hi> trebly repeated the Winter and Spring preceding; but tho that was the Cauſe, as I believe it was, why had we not the Cold the Winter before, when they were partilely con<g ref="char:EOLhyphen"/>join'd? I doubt not but it will puzzle moſt of our Modern Aſtrologers to ſhew the Reaſon.</p>
+               <p>But by our Copernican Method it's plain, why the Cold did not commence the Year before; for tho ♄ and ♃ were both in <hi>Perigaeon,</hi> which by our Method is a ſtrong Augment of cold and ſevere Froſt, yet we had then <hi>Mars</hi> our Deputy-<hi>Sun</hi> in ſquare to the <hi>Sun,</hi> who being upon the Meridian or Zenith, while <hi>Saturn</hi> and <hi>Jupiter</hi> were upon the Horizon, who hath great Force and Power by that Poſition, and did by his great Power overcome the chill Influence of ♄ and ♃, and cauſed a temperate Seaſon.</p>
+               <p>But after that <hi>Mars</hi> had got into an abject place, which was the ſucceeding Winter; and <hi>Saturn</hi> and ♃ ſtill continuing near together, and becoming in <hi>Perigaeon</hi> again the next Winter, who then play'd their parts to purpoſe; for <hi>Mars</hi> was alſo in a Winter Sign, as well as in an abject place, who being thereby weakned, and not able to over-power the Influence of ♄ and ♃, who then play their parts to purpoſe, then began the time for Severity.</p>
+               <p>They that will or can may draw the reſpective <hi>Diagrams</hi> for the ſaid Winters, wherein they may find Satisfaction. And ſo I ſhall conclude this Chapter, and with it the firſt Part.</p>
+               <figure>
+                  <head>June <hi>the</hi> 11th 1696. <hi>at Sun-ſet. Diagram</hi> III.</head>
+                  <p>This <hi>Diagram</hi> I call a <hi>Copernican Projection,</hi> upon the Plane of the Equinoctial. In which the <hi>Sun</hi> is the Centre, about whom move all the Planets in their reſpective Orbs; as alſo the <hi>Earth,</hi> about whom moves the <hi>Moon</hi> as her Centre. But for the Expla<g ref="char:EOLhyphen"/>nation thereof, ſee the 3d Chapter of the firſt Part; and alſo the 6th Chapter.</p>
+               </figure>
+               <figure>
+                  <pb n="28" facs="tcp:49380:19"/>
+                  <head>
+                     <hi>Diagram</hi> IV.</head>
+                  <p>This <hi>Diagram</hi> is drawn for the ſake of demonſtrating the Aſpects of the Planets, and is only a Projection of the Lunar Circle of the 3d <hi>Diagram,</hi> in a larger Figure, whereby the pla<g ref="char:EOLhyphen"/>netary Aſpects are more plain to the Eye, they being the ſame in the Lunar Orb in the 3d <hi>Diagram,</hi> but not ſo eaſy to be un<g ref="char:EOLhyphen"/>derſtood.</p>
+               </figure>
+               <figure>
+                  <pb n="29" facs="tcp:49380:19"/>
+                  <head>June <hi>the</hi> 11th 1695. <hi>at Sun-ſet. Diagram</hi> V.</head>
+               </figure>
+               <figure>
+                  <pb n="30" facs="tcp:49380:20"/>
+                  <head>February <hi>the</hi> 8th 1696, <hi>at Sun-ſet. Diagram</hi> VI.</head>
+               </figure>
+            </div>
+         </div>
+         <div type="appendix">
+            <pb n="31" facs="tcp:49380:20"/>
+            <head>The Second Part.</head>
+            <argument>
+               <p>Being a brief Aſtrological Judgment, or <hi>Appendix,</hi> treating of this enſuing Spring, and Summer's Effects, both in the Macrocoſm as well as Microcoſm: wherein there are many Cauſes to fear that <hi>Peſtilence</hi> and <hi>Famine</hi> will be added to the Plague of the devouring Sword in our European Territories.</p>
+            </argument>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <p>I Shall begin with the Month of <hi>March,</hi> wherein about the 10th day the <hi>Sun</hi> enters into the Vernal and Equinoctial Sign <hi>Aries,</hi> at which time I conſider the Poſition and Affection of the Planets according to our former Method.</p>
+               <p>At which time <hi>Saturn</hi> is in great Southern Declination, <hi>viz.</hi> in ♑ a Winter Sign, but yet the Earth begins to apply to him, he being ſeparating from a Geocentrick ⚹ of the <hi>Sun,</hi> and ap<g ref="char:EOLhyphen"/>plieth to a <g ref="char:quadrine">□</g> of him: <hi>Mars</hi> ſeparates from <hi>Jupiter</hi> by Retro<g ref="char:EOLhyphen"/>gradation, and is gotten out of his <hi>Perigaeon,</hi> and left <hi>Jupiter</hi> therein; <hi>Mars</hi> is alſo in Oppoſition with <hi>Venus,</hi> which is a gene<g ref="char:EOLhyphen"/>ral Aphoriſm amongſt all Aſtrologers, <hi>viz.</hi> when ♂ and ♀ are conjoined by Body or Aſpect, and eſpecially in ☍, then they produce at this ſeaſon Rain or Snow to exceſs, it being called an <hi>Apertio Portarum,</hi> or an opening of the Floodgates of Hea<g ref="char:EOLhyphen"/>ven: But at this Seaſon, for the aboveſaid Reaſons, we ſhall have rather Froſts and Snow with Hail; for <hi>Jupiter</hi> in <hi>Perigaeon,</hi> and ſo far elongated from <hi>Mars,</hi> who is out of his <hi>Perigaeon</hi> in ☍
+<pb n="32" facs="tcp:49380:21"/>
+with ♀, will undoubtedly cauſe much Froſts and Snow, to the Detriment of our too forward Spring and early Vegetables, as Apricocks, <hi>&amp;c.</hi>
+               </p>
+               <p>And theſe froſty Mornings are like to continue throughout the Month, becauſe about the end ♃ is in ☍ with ♀, and ♄ becomes in <g ref="char:quadrine">□</g> to the <hi>Sun,</hi> a Poſition wherein he is very power<g ref="char:EOLhyphen"/>ful; yet ♂ in <g ref="char:trine">△</g> with the <hi>Sun</hi> will mitigate a little, and give us a glimpſe of his warm Influence about the two or three laſt days of this Month, and beginning of <hi>April,</hi> and may cauſe a Re<g ref="char:EOLhyphen"/>miſſion of Cold, eſpecially in the Afternoons, but the Cold prevails afterwards again.</p>
+               <p>And now being come to <hi>April,</hi> in the beginning whereof, as I ſaid before, there is an ☍ ♃ ♀, and <g ref="char:quadrine">□</g> ☉ ♄, which notwithſtand<g ref="char:EOLhyphen"/>ing the aforeſaid <g ref="char:trine">△</g> ☉ ♂, will cauſe a glum cold Seaſon for the moſt part of the Month, becauſe ♄ and ♃ are in more power<g ref="char:EOLhyphen"/>ful Poſitions than ♂ our Deputy <hi>Sun;</hi> for ♄ is every Morning at Sun-riſe upon the Meridian, by which Poſition he becomes vertical to them who live on the South-ſide of the Equator; therefore this Poſition will certainly produce us cold Mornings and froſty moſt part of <hi>April,</hi> very prejudicial to our too for<g ref="char:EOLhyphen"/>ward Spring. <hi>Mercury</hi> is at his greateſt Elongation from the <hi>Sun,</hi> and may be ſeen to riſe before him about the tenth day for ſeveral Mornings.</p>
+               <p>
+                  <hi>May</hi> comes next in order, in which Month on the 6th day the <hi>Moon</hi> ſuffers a total Eclipſe, and happens juſt at Midnight upon the Meridian, and in their Zenith who live upon the Equator in the ſame Longitude with us.</p>
+               <p>At which time ♄ is in <g ref="char:trine">△</g> with ☉, and ♃ is ſeparated from a <g ref="char:trine">△</g> of the <hi>Sun. Mars</hi> is gotten in <g ref="char:quadrine">□</g> with ☉, and is upon the Me<g ref="char:EOLhyphen"/>ridian every Evening about Sun-ſet, to them who live under the Equinox, in which Poſition (he being upon their Zenith) he hath great force: alſo ♃ applies to a ☌ of ♂, and alſo to a <g ref="char:quadrine">□</g> of <hi>Sol.</hi> I fear by this Eclipſe, and other Poſitions attending it, that we ſhall have but little Fruit; it alſo threatens a Rot of
+<pb n="33" facs="tcp:49380:21"/>
+Sheep, and a ſickly Seaſon, for the Atmoſphere is full of Peſti<g ref="char:EOLhyphen"/>lential Vapours: A violent and active Seaſon both in the Ma<g ref="char:EOLhyphen"/>croeoſm as well as Microcoſm.</p>
+               <p>The Weather at the beginning of the Month will be wet, and I doubt holds longer than it's welcome: About the middle we ſhall have great Heat by ſits, and tempeſtuous high Winds. This or the next Month ſhould produce plenty of Earth<g ref="char:EOLhyphen"/>quakes, and violent Eruptions of the burning Mountains, with divers ſtrange Phenomena's in the Heavens, ſure no Comet: There will be very violent Thunders and harmful Lightning in this and the next Month, firing many Houſes in more Southern Countries, if not here in <hi>England.</hi>
+               </p>
+               <p>And now I come to treat of the Tropical Month of <hi>June,</hi> about the 11th day whereof the <hi>Sun</hi> enters into our Northern Tropick ♋, for which time I have drawn the Copernican Pro<g ref="char:EOLhyphen"/>jection, <hi>viz.</hi> the third Figure or <hi>Diagram,</hi> which is a violent Poſition, which I ſhall explain as followeth.</p>
+               <p>
+                  <hi>Saturn</hi> in the ſaid <hi>Diagram</hi> is in <hi>Perigaeon,</hi> and in ☍ with ♀, both being in Tropical Signs.</p>
+               <p>
+                  <hi>Jupiter</hi> and <hi>Mars</hi> are in ☌ near the end of ♍, an Equinocti<g ref="char:EOLhyphen"/>al Poſition, and will be ſeen South-weſt in the eighth Houſe (the Houſe of Death) within a Span's breadth of one another: A beautiful Sight to behold, but (as ſaith the Learned Dr. <hi>Goad</hi>) they will be like the Cannon in the Camp, tho beautiful, yet terrible. All the reſt of the Planets are in Cardinal Signs, the <hi>Moon</hi> being at the ſaid time in ☍ of ♃ and ♂; theſe are active and violent Poſitions, and will as certainly be attended with as vio<g ref="char:EOLhyphen"/>lent Effects.</p>
+               <p>The Weather will be variable, <hi>Saturn</hi>'s nearneſs to the Earth makes a cold Air; but ☌ ♃ ♂ in ♍, an Eſtival Sign, and near a <g ref="char:quadrine">□</g> of ☉, will cauſe very hot Weather by fits, violent Thun<g ref="char:EOLhyphen"/>ders and harmful Lightnings, and great Hail cauſed by the Chymiſtry of the Heavens; for <hi>Saturn</hi> fills the Atmoſphere with Nitre, and the nitrous and ſulphurious Particles being
+<pb n="34" facs="tcp:49380:22"/>
+fired by the ☌ ♃ ♂, will undoubtedly cauſe violent Combuſti<g ref="char:EOLhyphen"/>ons, <hi>&amp;c.</hi>
+               </p>
+               <p>By whoſe poiſonous and ſulphurious Fumes our Air will be in<g ref="char:EOLhyphen"/>fected, producing thereby contagious and infectious Diſeaſes, with prejudicial and unkind Blaſts and Mildews, damnifying the Corn; this Month being the principal Seaſon for the flow<g ref="char:EOLhyphen"/>ring and bloſſoming of all manner of European Corn, as Wheat, Barley, Beans, Rye, <hi>&amp;c.</hi> It being a certain and true Maxim in Philoſophy, that all manner of Vegetables are moſt tender and ſubject to be hurt when in bloſſom or flowring; which may be compared to teeming Animals, who are in more danger of Abortion preſently after Conception, than when long gone with young.</p>
+               <p>So that this ☌ ♃ ♂ falling at the time of the bloſſoming and flowring of our Corn, will by its poiſonous Quality much damnify it by Mildews and Blites; and I fear that this will be generally throughout <hi>Europe,</hi> and eſpecially in the more Southern Countries, and particularly in <hi>France.</hi> As far as I can ſee, it threatens Scarcity and Famine, of which I ſhall treat more particularly in the next Chapter.</p>
+               <p>And ſhall now treat of the Nature of <hi>July,</hi> about the middle whereof <hi>Saturn</hi> is in ☌ with the Earth, or in <hi>Perigaeon,</hi> and <hi>Jupiter</hi> and <hi>Mars</hi> are in abject places; this Poſition denotes another cold <hi>July,</hi> and ſlow and dull Hay-weather, cold, clou<g ref="char:EOLhyphen"/>dy and moiſt Seaſon, with South-Wind often, but more often the North Eaſt: our Harveſt ripens ſlowly. But I ſhall ſay the leſs of this and the next Month, becauſe I deſign in my next Book to treat more particularly thereof, they being our Harveſt Months.</p>
+               <p>
+                  <hi>Auguſt</hi> will be cold and dull Weather for the Reaſons afore<g ref="char:EOLhyphen"/>ſaid, with much South-Winds, and cloudy, and moiſt too, (I fear) eſpecially the latter half thereof: But for the Particulars I beg your Patience until my next appears; certainly it will be a ſickly Seaſon, and ſo ſhall conclude this Chapter. But I ſhall fore-ſtall
+<pb n="35" facs="tcp:49380:22"/>
+my next Book ſo much, as to let you know, that we ſhall certain<g ref="char:EOLhyphen"/>ly have a very early and ſharp Winter, <hi>fore-warn'd, fore-arm'd.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <p>I Having in the laſt Chapter hinted of a turbulent and violent Summer, both in the Macrocoſm as well as Microcoſm, wherein I fear a general Sickneſs and blaſting Seaſon; as alſo that the Sword will be more mortal and deadly this Summer than it hath been ſince the War began; therefore I ſhall ſay ſomething thereof in this Chapter more particularly, and conſider what Countries will be moſt paſſive, and how it will terminate.</p>
+               <p>We are ſtill under the malevolent Effects of the grand ☌ ♄ ♃, and of the dire Effects thoſe Comets preſaged, which appeared in the Years 1680, and 1682, which was the <hi>Prodromus</hi> of theſe European Wars.</p>
+               <p>And in the Years 1692, and 1693, the ſaid Superiours ♄ and ♃ were in Oppoſition, which produced ſeveral Earth<g ref="char:EOLhyphen"/>quakes: Theſe Earth-quakes by their Nitro-ſulphurious and mi<g ref="char:EOLhyphen"/>neral Vapours, and Arſenitical and Mercurial Fumes have poiſoned our Air, and rendred our Vegetables, <hi>&amp;c.</hi> corruptive and unwholſome; for the Air was firſt infected by thoſe afore<g ref="char:EOLhyphen"/>ſaid Fumes and Vapours, which over-powered and poiſoned the true ſaline and nitrous Particles conducing to Vegetation and Health; ſo that our Vegetables did not come to their Matu<g ref="char:EOLhyphen"/>rity: for wanting that ſaline Vigor which ſhould conduce to their Perfection, they remained crude and not fit for Aliment; ſo that we feeding on theſe Vegetables, and Animals, whoſe Fleſh (not being fed with healthful Aliment) wanting its true Balſamick Virtue and Nouriſhment; and alſo by breathing and ſucking in the aforeſaid poiſonous Vapours, we do become unheal<g ref="char:EOLhyphen"/>thy, and our Bodies for want of the aforeſaid ſaline Vigor, and true Balſamick Temper, do become infectious and corruptive.</p>
+               <p>
+                  <pb n="36" facs="tcp:49380:23"/>Alſo it's a general Rule amongſt Phyſicians and Philoſophers; that when we have our Seaſons irregular and out of order, <hi>viz.</hi> Winterly Summers, and Summerly Winters, and when inſtead of a wholſome North Wind, we have an unwholſome South Wind moſt part of the Winter, then do they foreſee a Sick<g ref="char:EOLhyphen"/>neſs generally to enſue.</p>
+               <p>Aſtrologically we have had <hi>Saturn</hi> annoying us by his Preſence all laſt Summer, and <hi>Mars</hi> this Winter, and juſt at the Solar In<g ref="char:EOLhyphen"/>greſs into our Northern Tropick, ♃ and ♂ are in ☌ in ♍, a Sign and Poſition, by Obſervation and Experience noted for Sickneſs.</p>
+               <p>Where was <hi>Saturn</hi> when the laſt devouring Plague raged in <hi>London?</hi> Was he not in <hi>Capricorn,</hi> the ſame place wherein he now is? which Diſtemper was agitated and ſtirred up by the ☍ ♃ ♂.</p>
+               <p>To be brief; I have too many Reaſons, both Aſtrological and Philoſophical, to fear a blaſting and peſtilential Seaſon, which will (if not prevented by the Almighty) produce a Peſtilence and Scarcity in moſt of our European Countries, who are already under one of God's Scourges, <hi>viz.</hi> the devouring Sword.</p>
+               <p>But in the day of God's Anger, when that he reſolves to pour forth his Vengeance, and join to the Sword Peſtilence and Famine, who can ſtand before him? He hath been pleaſed, like a kind Father, to correct us at firſt gently, to ſee and try if we would repent and amend our Ways; but when he finds that will not do, he then corrects us with more Severity. I pray God I be not a true Prophet, but that we may, with the <hi>Ninevites,</hi> avert his Judgments which hover over our Heads, with true Repen<g ref="char:EOLhyphen"/>tance and Prayer.</p>
+               <p>And now, tho contrary to my intended Method, I ſhall con<g ref="char:EOLhyphen"/>ſider what Countries will be moſt paſſive this next Summer.</p>
+               <p>
+                  <hi>Jupiter</hi> is the Planet Paſſive, who is afflicted by ♂ in ♍: and <hi>Saturn</hi> ſtrong in ♑, being the Significator of the <hi>Turks,</hi> ſhews their Strength; ♃ being afflicted, ſhews the Weakneſs of the Chriſtians, <hi>viz.</hi> of the Emperor and K. <hi>Lewis;</hi> for <hi>Jupiter</hi> in ♍, conjoined to ♂, is the Significator of the <hi>French</hi> Government.</p>
+               <p>
+                  <pb n="37" facs="tcp:49380:23"/>
+                  <hi>Mars</hi> is our <hi>England</hi>'s Defender, <hi>viz.</hi> the Heroick and unpa<g ref="char:EOLhyphen"/>rallel'd in Valour, K. <hi>William,</hi> who afflicts <hi>Jupiter</hi> in the very Bowels of <hi>France:</hi> for <hi>France</hi> is generally known to be under the Sign <hi>Virgo;</hi> who, like a dying Cock, is reſolved to ſtrike the ſparring Blow if poſſible; and in order to it, muſters up all her Force and Strength; but miſſing her Aim, ſhe falls flat down and expires.</p>
+               <p>Certainly <hi>France</hi> is driven to her laſt Shifts, when that ſhe hath no other way to rid her ſelf of her Mortal Enemy, than to invent and contrive ſo horrid and deviliſh a Deſign, contrary to the Law of God, Nature, or War, <hi>viz.</hi> the Aſſaſſination of his Majeſty K. <hi>William;</hi> certainly every honeſt Man can't but hate the thing. Surely it's enough to make the <hi>Jacobites</hi> them<g ref="char:EOLhyphen"/>ſelves, which have any ſpark of Honeſty in them, to hate and abhor the Contrivers of ſo black and deteſtable Practices, and come over to K. <hi>William.</hi> But be it as it will, his Sword will decide the Controverſy, and make him more Friends this Sum<g ref="char:EOLhyphen"/>mer than ever; who will be forced to ſneak to him for ſhelter, for he is born to be a Shield to the Reformed Religion.</p>
+               <p>What can any Proteſtant <hi>Jacobites</hi> propoſe to themſelves, or expect to gain by a <hi>French</hi> Power, but Popery and Slavery, if they ſhould have attained their Ends? but before that could have been effected, the Nation muſt have been ruined by a Civil War. For let me reaſon with them thus; Suppoſe they had made an Inſurrection and Invaſion, and that Helliſh Project of theirs, and the <hi>French</hi> King's, had taken effect, <hi>viz.</hi> the Aſſaſſination of our King, (which God out of his Mercy hath, and I hope will prevent) I ſay, ſuppoſe they had brought in a <hi>French</hi> Ar<g ref="char:EOLhyphen"/>my, yet we ſee that the Confederates had Eyes over them, and in kindneſs to us and our King, was reſolved to land an Army to aſſiſt us; the Duke of <hi>Wirtemberg</hi> having twenty thouſand Men ready to land, and aſſiſt our King, or Us, if he had been ſo unfortunate as to have loſt his Life by thoſe barbarous and wicked Men: I ſay, we ſhould not have been left to be de<g ref="char:EOLhyphen"/>voured
+<pb n="38" facs="tcp:49380:24"/>
+by the <hi>French;</hi> but before the Diſorders had been ſet<g ref="char:EOLhyphen"/>tled, and that we could have crowned the next Succeſſor, the Nation might have been ruined; no body conſidering the Mi<g ref="char:EOLhyphen"/>ſeries of a Civil War, but thoſe that groan under it: Have we already forgot the Civil War in <hi>Oliver</hi>'s Days?</p>
+               <p>We have now a King who ventures his All to make us happy, who ſtands himſelf between Danger and Us, who croſſes the Seas to defend our Lives, Liberties and Religion: And yet we are ſo ungrateful to him, and unkind to our ſelves, as not to aſſiſt him to our Powers. Had we a King who minded nothing but Luxury and Eaſe, and cared not what became of his Sub<g ref="char:EOLhyphen"/>jects, we might well grumble; or had we a King, who like the Stork in the Fable, devoured us and our Liberties, we might then juſtly complain, and Self-preſervation would be a great Temptation to make us rebel: But contrarily we have an He<g ref="char:EOLhyphen"/>ro, who undergoes all Perils to make us eaſy and happy. There<g ref="char:EOLhyphen"/>fore be ſo kind to your ſelves and Native Country, as to ſtand by and defend your King againſt his Enemies; and inſtead of bringing in the Sword amongſt us, let us unanimouſly join and carry it into the Bowels of <hi>France:</hi> I ſay, let us ſhare in the Honour thereof, for, if I ben't miſtaken, ſhe will be afflicted with War, Peſtilence and Famine, this Year 1696.</p>
+               <p>Scarcity and Sickneſs will be our Viſitants in <hi>England,</hi> I hope no Civil War; but if it be, it will be to the Coſt of the <hi>Jaco<g ref="char:EOLhyphen"/>bites,</hi> let them begin as ſoon as they will.</p>
+               <p>King <hi>William</hi> is born to bring down the Power of the <hi>French</hi> King; and I believe this Campagn will end the Controverſy, and we ſhall not be long e're we enjoy the long-wiſh'd for Ho<g ref="char:EOLhyphen"/>nourable Peace.</p>
+               <p>But yet I fear the Emperor loſeth Ground with the Turks. Many will be the Calamities which will afflict <hi>Europe</hi> this Year, which undergoes ſeveral Cataſtrophes, let Time demonſtrate: Howſoever I am certain the French War is almoſt at an End, and the fatal Blow will be ſtruck this Summer; and ſo ſhall end this Chapter.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="39" facs="tcp:49380:24"/>
+               <head>CHAP. III.</head>
+               <p>IN this Chapter I ſhall conſider of the Cauſes, Symptoms, and Cure of this Sickneſs or Peſtilence, ſo often hinted at in the foregoing Chapters; which if it ſhould happen in <hi>England,</hi> (which God divert) our Phyſicians, eſpecially the Aſtrologians, may prepare Antidotes and preventative Remedies, as being the fitteſt Men to cure, as well as prevent all Diſtempers, eſpe<g ref="char:EOLhyphen"/>cially thoſe which have their dependance upon the Seaſon and Stars, who by their Nitro-ſulphurious and poiſonous Rays, in<g ref="char:EOLhyphen"/>fect our Air, whereby our Bodies, by breathing and ſucking in that Air, <hi>&amp;c.</hi> (whereof I ſaid ſomething in the laſt Chapter) do become corruptive, and tending to Putrefaction.</p>
+               <p>For how many Souls have periſhed for Want of the Phyſici<g ref="char:EOLhyphen"/>ans Knowledg of the true Nature of the Diſeaſe, which alters according to the Nature of the Afflicting Planets? <hi>&amp;c.</hi> for every Year brings with it a new Diſtemper, not known to the Drug-Doctor, until he hath found it out by Experience, which coſts the Lives of perhaps half a hundred of his languiſhing Patients: While the Aſtrologian ſees the true Cauſe and Nature of the Diſtemper before it comes, and can, if deſired, prevent the Malady, if not deſtined by the Almighty to Deſtruction.</p>
+               <p>The Places chiefly menaced by the Stars, are <hi>France, Ger<g ref="char:EOLhyphen"/>many, Hungary, Spain, England,</hi> and <hi>Flanders;</hi> and eſpecially in the French Camp in <hi>Flanders.</hi>
+               </p>
+               <p>The Symptoms and Nature of the Diſtemper 'tis hard to de<g ref="char:EOLhyphen"/>fine, but may be gueſt at by the afflicting Planets, <hi>&amp;c.</hi> Which are both <hi>Saturn</hi> in <hi>Capricorn,</hi> and <hi>Mars</hi> afflicting <hi>Jupiter</hi> in <hi>Vir<g ref="char:EOLhyphen"/>go; Saturn</hi> in <hi>Capricorn</hi> afflicts the Head with Diſeaſes, proceed<g ref="char:EOLhyphen"/>ing from Melancholy, which will produce Madneſs, Ravings, Frenzies, beginning with great Pain and Heavineſs; alſo Pains and Wearineſs in the Joints, Knees, and Sinews, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <pb n="40" facs="tcp:49380:25"/>Secondly, <hi>Jupiter</hi> afflicting <hi>Mars</hi> in <hi>Virgo</hi> and <hi>Luna,</hi> at the So<g ref="char:EOLhyphen"/>lar Ingreſs in <hi>Oppoſition</hi> to them, denotes Melancholy to have Dominion, cauſing ſtoppages of the Liver, <hi>Cardiaca Paſſio,</hi> great pain in the Sinews and Joints; and all over the Body; and the Bowels are afflicted from a cold Cauſe, Cholick, Gripings of the Guts, with tough and thick Flegm falling upon the Throat and Lungs, cauſing troubleſome Coughs.</p>
+               <p>And if we be ſo happy to eſcape in <hi>England</hi> from a Peſtilence, yet I am certain that we ſhall have a new malignant Diſtemper, and the Symptoms will be partly as I have before deſcribed.</p>
+               <p>The Method to prevent or cure this hovering Malady, is as followeth, <hi>viz.</hi> we muſt have reſpect to the afflicting Planets, and ſee how they are dignified.</p>
+               <p>
+                  <hi>Mars</hi> being the chief afflicting Planet, and not very ſtrong<g ref="char:punc">▪</g> we may oppoſe him by Antipathy with Herbs of <hi>Venus;</hi> but <hi>Saturn</hi> being ſtrong, and beholding <hi>Jupiter</hi> and <hi>Mars</hi> with a friendly <hi>Trine,</hi> we muſt ſympathize with him, and make uſe of his Herbs in the Cure. Alſo we muſt in all Peſtilential Diſtem<g ref="char:EOLhyphen"/>pers, make uſe of a certain number of Solar Herbs, which have a principal Virtue to ſtrengthen the Heart and Vital Spirit.</p>
+               <p>So that you muſt have recourſe to the Herbs of <hi>Saturn,</hi> the <hi>Sun,</hi> and <hi>Venus,</hi> being gathered according to their Planetary Strength and Vertue, reſpect being had to their Number and Proportion in the Compoſition. <hi>Verbum ſat.</hi>
+               </p>
+               <p>☞ It's alſo requiſite to open the Obſtructions of the Liver and Breaſt, and to clear the Body of Melancholy this Spring, by purging Medicines compoſed of the aforeſaid Herbs, <hi>&amp;c.</hi> And ſo ſhall I conclude this Embrio of Aſtrological Influence, deſigning to be more large and particular in my next; in the mean time farewel.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>
+               <hi>Errat.</hi> Pag. 14. lin. 24. for <hi>Faces,</hi> read <hi>Phaſes.</hi>
+            </p>
+            <pb facs="tcp:49380:25"/>
+         </div>
+      </back>
+   </text>
+</TEI>
